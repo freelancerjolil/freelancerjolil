@@ -1,7 +1,7 @@
-[![MasterHead](https://giphy.com/gifs/art-artists-on-tumblr-xeBAhPEPJlG4o)](https://fiverr.com/freelancerjolil)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://fiverr.com/freelancerjolil)
 <h1 align="center">Hi 👋, I'm Abdul Jalil</h1>
 <h3 align="center">A Professional Graphic Designer from Bangladesh</h3>
-(img align="right" alt="Coding" width="400" src="(https://31.media.tumblr.com/0227c9a0ad852015e76527fd73fec03b/tumblr_mzgnk061iB1qaajkio1_500.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freelancerjolil&label=Profile%20views&color=0e75b6&style=flat" alt="freelancerjolil" /> </p>
 
