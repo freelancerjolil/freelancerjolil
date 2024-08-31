@@ -1,17 +1,17 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://fiverr.com/freelancerjolil)
 <h1 align="center">Hi 👋, This is Abdul Jalil</h1>
-<h3 align="center"> Web Development Students </h3>
+<h3 align="center"> Programmer, Graphic-Designer and Trainer </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://facebook.com/freelancerjolil&label=Profile%20views&color=0e75b6&style=flat" alt="freelancerjolil"/></a> </p>
 
 <p align="left"> <a href="https://twitter.com/freelancerjolil" target="blank"><img src="https://img.shields.io/twitter/follow/freelancerjolil?logo=twitter&style=for-the-badge" alt="freelancerjolil" /></a> </p>
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning ** JavaScript**
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 💬 Ask me about **Graphics Design**
+- 💬 Ask me about **Graphics Design, HTML & CSS**
 
 - 📫 How to reach me **freelancerjolil@gmail.com**
 
