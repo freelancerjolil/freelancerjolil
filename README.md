@@ -1,18 +1,25 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/freelancerjolil)
 <h1 align="center">Hi 👋, This is Abdul Jalil</h1>
 <h3 align="center"> Programmer | Graphic-Designer </h3>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Highly motivated Frontend Web Developer with expertise in HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Firebase, Node.js, Express.js, and MongoDB. Passionate about building modern, responsive, and high-performance web applications with clean UI/UX. Strong problem-solving skills and experience working in agile development environments. Adept at integrating backend services to create full-stack solutions.</p>
+
+###
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://facebook.com/freelancerjolil&label=Profile%20views&color=0e75b6&style=flat" alt="freelancerjolil"/></a> </p>
 
 
-- 🌱 I’m currently learning **Next JS**
+🌱 I’m currently learning **Next JS**
 
-- 🤝 I’m looking for help with **Web Development**
+🤝 I’m looking for help with **Web Development**
 
-- 💬 Ask me about anything related to Javascript/NodeJS or React/Express
+💬 Ask me about anything related to Javascript/NodeJS/React/Express
 
-- 📫 How to reach me **freelancerjolil@gmail.com**
+📫 How to reach me **freelancerjolil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
