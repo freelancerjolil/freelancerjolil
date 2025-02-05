@@ -10,9 +10,6 @@
 ###
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://facebook.com/freelancerjolil&label=Profile%20views&color=0e75b6&style=flat" alt="freelancerjolil"/></a> </p>
-
-
 🌱 I’m currently learning **Next JS**
 
 🤝 I’m looking for help with **Web Development**
@@ -31,9 +28,11 @@
 <a href="https://www.behance.net/freelancerjolil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="freelancerjolil" height="30" width="40" /></a>
 </p>
 
+###
+
 <div>
-  <h3 align="center">Languages and Tools:</h3>
-<div align="center">
+  <h3 align="left">Languages and Tools:</h3>
+<div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
