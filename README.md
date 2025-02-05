@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://facebook.com/freelancerjolil&label=Profile%20views&color=0e75b6&style=flat" alt="freelancerjolil"/></a> </p>
 
-<p align="left"> <a href="https://facebook.com/freelancerjolil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a> </p>
 
 - 🌱 I’m currently learning **Next JS**
 
