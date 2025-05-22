@@ -1,6 +1,6 @@
 <!-- GitHub Profile Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/tMTcqPsk/ABDUL-JALIL.png" alt="Abdul Jalil GitHub Banner" width="100%" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg1ah6l2nmG-0hbwCxgJNBa3u5qSvb8-g2qKR9OEgiV5YWEGMaEwEGz149FBSCQ-KtZsXGkExLGNKxO-H8eVqESR4XuBkmtUJ7Is5Y45568pmo4-E-VjkMgIvzPyMMiNXaIV8ZcjmrPny13Ch5ZVYr5YAe0Lioz7pIPWtSiKx6QdWIUbEQ2RvnBByv6hI/s1600/abdul+jalil+%20github+banner.png" alt="Abdul Jalil GitHub Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, This is Abdul Jalil</h1>
 <h3 align="center"> Programmer | Graphic-Designer </h3>
