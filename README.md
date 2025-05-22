@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/freelancerjolil)
+[![MasterHead](https://i.ibb.co/tMTcqPsk/ABDUL-JALIL.png)](https://www.linkedin.com/in/freelancerjolil)
 <h1 align="center">Hi 👋, This is Abdul Jalil</h1>
 <h3 align="center"> Programmer | Graphic-Designer </h3>
 <h2 align="left">About me</h2>
