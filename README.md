@@ -3,7 +3,7 @@
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg1ah6l2nmG-0hbwCxgJNBa3u5qSvb8-g2qKR9OEgiV5YWEGMaEwEGz149FBSCQ-KtZsXGkExLGNKxO-H8eVqESR4XuBkmtUJ7Is5Y45568pmo4-E-VjkMgIvzPyMMiNXaIV8ZcjmrPny13Ch5ZVYr5YAe0Lioz7pIPWtSiKx6QdWIUbEQ2RvnBByv6hI/s1600/abdul+jalil+%20github+banner.png" alt="Abdul Jalil GitHub Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, This is Abdul Jalil</h1>
-<h3 align="center"> Programmer | Graphic-Designer </h3>
+<h3 align="center"> Web Developer | Graphic-Designer </h3>
 <h2 align="left">About me</h2>
 
 ###
@@ -14,11 +14,11 @@
 
 🌱 I’m currently learning **Next JS**
 
-🤝 I’m looking for help with **Web Development**
+🤝 I’m currently working on **Library Management**
 
 💬 Ask me about anything related to Javascript/NodeJS/React/Express
 
-📫 How to reach me **freelancerjolil@gmail.com**
+📫 How to reach me **abduljalil.contact@gmail.com**
 
 ###
 
