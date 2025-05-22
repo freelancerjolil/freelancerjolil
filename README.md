@@ -1,10 +1,12 @@
-[![MasterHead](https://i.ibb.co/tMTcqPsk/ABDUL-JALIL.png)](https://www.linkedin.com/in/freelancerjolil)
+<!-- GitHub Profile Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/tMTcqPsk/ABDUL-JALIL.png" alt="Abdul Jalil GitHub Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, This is Abdul Jalil</h1>
 <h3 align="center"> Programmer | Graphic-Designer </h3>
 <h2 align="left">About me</h2>
 
 ###
-
 <p align="left">Highly motivated Frontend Web Developer with expertise in HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Firebase, Node.js, Express.js, and MongoDB. Passionate about building modern, responsive, and high-performance web applications with clean UI/UX. Strong problem-solving skills and experience working in agile development environments. Adept at integrating backend services to create full-stack solutions.</p>
 
 ###
